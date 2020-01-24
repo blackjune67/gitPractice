@@ -2,3 +2,4 @@
 2. 하준테스트 test2
 3. 테스트
 4. develoment branch를 만들었습니다.
+5. rebase를 테스트하기 위해서 branch swiching 을 진행합니다.
