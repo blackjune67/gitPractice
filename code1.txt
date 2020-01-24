@@ -3,3 +3,7 @@
 3. 테스트 버그를 수정해서 마스터에서 commit을 합니다.
 4. rebase 를 테스트해봅니다. 무조건 받는 쪽에서 당겨오는 것이 기준. 주는게 아닌 받는 것.
 5. rebase 를 다시 한번 테스트합니다.
+
+4. develoment branch를 만들었습니다.
+5. rebase를 테스트하기 위해서 branch swiching 을 진행합니다.
+6.cherry-pick TEST
